@@ -1,11 +1,9 @@
 package com.fruitDayDB.db;
 
-
 import java.sql.*;
-import java.util.ResourceBundle;
 
 /**
- * Created by xi on 2015/10/4.
+ * Created by Xiehd on 2020/10/1.
  */
 public class DBUtils {
     //数据库连接地址

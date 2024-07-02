@@ -6,11 +6,10 @@ import com.fruitDayDB.dao.UserDao;
 import com.fruitDayDB.dao.UserDaoImpl;
 import com.fruitDayDB.vo.User;
 
-import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Created by xi on 2015/10/4.
+ * Created by Xiehd on 2020/10/1.
  */
 public class UserService {
     public static User add(User u){
