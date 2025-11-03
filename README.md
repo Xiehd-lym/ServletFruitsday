@@ -1,4 +1,4 @@
-# ServletFruitsday
+# ServletFruits
 
 [Tomcat + Servlet + MySQL] FruitManage+fruitShoping
 **水果销售平台+后台管理系统**
